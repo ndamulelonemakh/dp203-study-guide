@@ -1,5 +1,5 @@
 # DP 203 Data Engineering on Microsoft Azure - Study Guide
-> A curated list of topics to prepare for [Azure DP-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) certification exam - Made with love by [Peclyr.ai](). This guide assumes that you have a good conceptual understanding of data concepts in Azure Cloud. We recommend going through the [learning path](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/) provided for Free by Microsoft.
+> A curated list of topics to prepare for [Azure DP-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) certification exam - Made with :heart: by [Peclyr.ai](). This guide assumes that you have a good conceptual understanding of data concepts in Azure Cloud. We recommend going through the [learning path](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/) provided for Free by Microsoft.
 
 
 # Azure Synpase Analytics
