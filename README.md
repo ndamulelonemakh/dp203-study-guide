@@ -7,9 +7,9 @@
 ## 1. Data Injestiion
 
 - [ ] Load from SQL database
-[ ] Load with Polybase
-[ ] Load with Lake Database
-[ ] Load from Azure storage
+- [ ] Load with Polybase
+- [ ] Load with Lake Database
+- [ ] Load from Azure storage
 
 ### Labs
 
@@ -22,8 +22,8 @@ ii. Create a data warehouse schema from database dumps
 
 ## 1. Understanding window functions
 
-[ ] Tumbling windows
-[ ] Hopping windows
-[ ] Snapshot windows
-[ ] Session windows
+- [ ] Tumbling windows
+- [ ] Hopping windows
+- [ ] Snapshot windows
+- [ ] Session windows
 
