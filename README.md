@@ -6,7 +6,7 @@
 
 ## 1. Data Injestiion
 
-[ ] Load from SQL database
+- [ ] Load from SQL database
 [ ] Load with Polybase
 [ ] Load with Lake Database
 [ ] Load from Azure storage
