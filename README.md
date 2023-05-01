@@ -101,7 +101,7 @@ i. Create a realtime dashboard to track user activity of a website
 ## 1. Development
 
 - [ ] Databricks utilities - dbutils
-- [ ] Spark/Pyspark/Spark SQL - basic tranformations e.g. dropDuplicates(), CAST()
+- [ ] Spark/Pyspark/Spark SQL - basic tranformations e.g. dropDuplicates(), mode(), partitionBy(), REPLACE()
 
 ## 2. Perfomance
 
@@ -133,6 +133,12 @@ i. Create a realtime dashboard to track user activity of a website
 <br/>
 <br/>
 <br/>
+
+
+# Azure Data Lake Storage
+
+- [ ] Posix controls
+- [ ] SAS vs Managed Identity Access
 
 
 # Data Engineering concepts
