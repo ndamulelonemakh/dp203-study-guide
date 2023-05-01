@@ -18,6 +18,10 @@ i. Create a data warehouse schema from the Contoso sample database
 ii. Create a data warehouse schema from database dumps
 
 
+<br/>
+--------------------------------------------------------THE END--------------------------------------------------------
+<br/>
+
 # Azure Streaming Analytics
 
 ## 1. Understanding window functions
