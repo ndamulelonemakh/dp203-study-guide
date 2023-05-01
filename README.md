@@ -25,10 +25,25 @@ ii. Create a data warehouse schema from database dumps
 
 # Azure Streaming Analytics
 
-## 1. Understanding window functions
+## 1. Window functions
 
 - [ ] Tumbling windows
 - [ ] Hopping windows
 - [ ] Snapshot windows
 - [ ] Session windows
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+# Azure SQL Database
+
+## 1. Partion strategies
+
+- [ ] Sharding
+- [ ] Vertical Partions
+- [ ] Horizontal Partitions
+- [ ] Horizonal vs Vertical scaling
