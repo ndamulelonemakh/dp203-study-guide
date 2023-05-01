@@ -9,11 +9,12 @@
 [ ] Load from SQL database
 [ ] Load with Polybase
 [ ] Load with Lake Database
-[ ] 
+[ ] Load from Azure storage
 
 ### Labs
 
 i. Create a data warehouse schema from the Contoso sample database
+
 ii. Create a data warehouse schema from database dumps
 
 
