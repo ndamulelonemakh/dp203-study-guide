@@ -85,6 +85,7 @@ ii. Create a data warehouse schema from database dumps
 - [ ] C# User-defined functions
 - [ ] Machine learning scoring functions
 - [ ] GeoSpatial functions, for example: ST_DISTANCE, ST_WITHIN etc.
+- [ ] Aggregate functions e.g. TopOne()
 
 ## 4. Security
 
@@ -163,4 +164,5 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 - [ ] File formats e.g. Parquet, Avro, Binary etc.
 - [ ] Surrogate Keys (Alternate keys)
 - [ ] Slowly changing dimension Type 0, 1 and 2
+- [ ] Big data [reference architectures](https://learn.microsoft.com/en-us/azure/architecture/data-guide/big-data/)
 
