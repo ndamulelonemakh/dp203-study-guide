@@ -32,6 +32,14 @@ ii. Create a data warehouse schema from database dumps
 - [ ] Snapshot windows
 - [ ] Session windows
 
+## 2. Perfomance
+
+- [ ] Streaming units
+- [ ] 
+
+### Labs
+
+i. Create a realtime dashboard to track user activity of a website
 
 <br/>
 <br/>
@@ -41,9 +49,9 @@ ii. Create a data warehouse schema from database dumps
 
 # Azure SQL Database
 
-## 1. Partion strategies
+## 1. Sharding
 
-- [ ] Sharding
 - [ ] Vertical Partions
 - [ ] Horizontal Partitions
 - [ ] Horizonal vs Vertical scaling
+- [ ] Single tenacy vs Multi tenacy
