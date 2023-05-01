@@ -18,7 +18,7 @@
 - [ ]  Copy Activity
 - [ ]  Mapping Dataflow functions e.g. Pivot, Select, Filter etc.
 - [ ]  Data flow script e.g. Split
-- [ ]  Self-hosted runtime
+- [ ]  Self-hosted vs Azure IR
 - [ ]  CI/CD deployment across multiple environments
 
 ## 3. Monitoring
@@ -149,6 +149,13 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 
 - [ ] Posix controls
 - [ ] SAS vs Managed Identity Access
+- [ ] URL Schems e.g. abfss vs wasbs
+
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 # Data Engineering concepts
