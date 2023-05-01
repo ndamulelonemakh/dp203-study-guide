@@ -43,7 +43,7 @@ ii. Create a data warehouse schema from database dumps
 
 ## 3. Development
 
-- [ ] Vscode vs Visual studio development
+- [ ] Azure portal vs Vscode vs Visual studio vs Command line development
 - [ ] Javascript User-defined functions
 - [ ] C# User-defined functions
 - [ ] Machine learning scoring functions
