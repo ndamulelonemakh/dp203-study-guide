@@ -45,7 +45,7 @@
 - [ ] Partitioning vs Distribution
 - [ ] Partition switching
 - [ ] Clustered columnstore index vs clustered index
-- [ ] 
+- [ ] Capacity planning e.g. Expected rows per distribution/partition
 
 ### Labs
 
