@@ -15,7 +15,7 @@
 ## 2. Pipelines
 
 - [ ]  Copy Activity
-- [ ]  
+- [ ]  Mapping Dataflow functions e.g. Pivot, Select, Filter etc.
 - [ ]  Self-hosted runtime
 
 ## 3. Monitoring
