@@ -35,6 +35,7 @@
 - Row level vs Column level security
 - Masking Functions
 - VNet Intergration
+- [ ] Firewall rules
 
 ## 5. Perfomance
 
@@ -107,6 +108,7 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 ## 2. Perfomance
 
 - [ ] High concurrency cluster vs Standard
+- [ ] Standard autoscaling vs Optimised autoscaling
 
 <br/>
 <br/>
