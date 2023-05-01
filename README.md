@@ -32,9 +32,22 @@ ii. Create a data warehouse schema from database dumps
 - [ ] Snapshot windows
 - [ ] Session windows
 
+## 2. GeoSpatial functions
+
+- [ ] Built-in functions, for example: ST_DISTANCE, ST_WITHIN etc.
+
 ## 2. Perfomance
 
 - [ ] Streaming units
+- [ ] Partitioning
+- [ ] Embarassingly parallel jobs
+- [ ] Late arrival policy
+- [ ] Event time vs Arrival time
+- [ ] Error policy
+
+## 3. Security
+
+- [ ] VNet intergration
 - [ ] 
 
 ### Labs
