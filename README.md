@@ -32,10 +32,6 @@ ii. Create a data warehouse schema from database dumps
 - [ ] Snapshot windows
 - [ ] Session windows
 
-## 2. GeoSpatial functions
-
-- [ ] Built-in functions, for example: ST_DISTANCE, ST_WITHIN etc.
-
 ## 2. Perfomance
 
 - [ ] Streaming units
@@ -45,10 +41,17 @@ ii. Create a data warehouse schema from database dumps
 - [ ] Event time vs Arrival time
 - [ ] Error policy
 
-## 3. Security
+## 3. Development
+
+- [ ] Vscode vs Visual studio development
+- [ ] Javascript User-defined functions
+- [ ] C# User-defined functions
+- [ ] Machine learning scoring functions
+- [ ] GeoSpatial functions, for example: ST_DISTANCE, ST_WITHIN etc.
+
+## 4. Security
 
 - [ ] VNet intergration
-- [ ] 
 
 ### Labs
 
