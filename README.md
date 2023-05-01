@@ -90,6 +90,7 @@ ii. Create a data warehouse schema from database dumps
 ### Labs
 
 i. Create a realtime dashboard to track user activity of a website
+ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data source
 
 <br/>
 <br/>
