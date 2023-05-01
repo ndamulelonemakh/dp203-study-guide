@@ -30,13 +30,13 @@
 
 ## 4. Security
 
-- Roles
-- Create Admin Accounts
-- Storage keys
-- Encryption - HTTPS, TDE etc.
-- Row level vs Column level security
-- Masking Functions
-- VNet Intergration
+- [ ] Roles
+- [ ] Create Admin Accounts
+- [ ] Storage keys
+- [ ] Encryption - HTTPS, TDE etc.
+- [ ] Row level vs Column level security
+- [ ] Masking Functions
+- [ ] VNet Intergration
 - [ ] Firewall rules
 
 ## 5. Perfomance
@@ -108,6 +108,7 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 - [ ] Spark/Pyspark/Spark SQL - basic tranformations e.g. dropDuplicates(), mode(), partitionBy(), REPLACE()
 - [ ] Mount data lake storage
 - [ ] Structured streaming output modes
+- [ ] Viewing cluster logs
 
 ## 2. Perfomance
 
