@@ -19,7 +19,8 @@ ii. Create a data warehouse schema from database dumps
 
 
 <br/>
---------------------------------------------------------THE END--------------------------------------------------------
+<br/>
+<br/>
 <br/>
 
 # Azure Streaming Analytics
