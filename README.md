@@ -19,11 +19,13 @@
 - [ ]  Mapping Dataflow functions e.g. Pivot, Select, Filter etc.
 - [ ]  Data flow script e.g. Split
 - [ ]  Self-hosted runtime
+- [ ]  CI/CD deployment across multiple environments
 
 ## 3. Monitoring
 
 - [ ] Execution times
 - [ ] Azure Monitor Alerts
+- [ ] Sensitivity query results audit
 
 
 ## 4. Security
@@ -104,11 +106,14 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 
 - [ ] Databricks utilities - dbutils
 - [ ] Spark/Pyspark/Spark SQL - basic tranformations e.g. dropDuplicates(), mode(), partitionBy(), REPLACE()
+- [ ] Mount data lake storage
+- [ ] Structured streaming output modes
 
 ## 2. Perfomance
 
 - [ ] High concurrency cluster vs Standard
 - [ ] Standard autoscaling vs Optimised autoscaling
+- [ ] Incremental loads with Autoloader
 
 <br/>
 <br/>
@@ -128,6 +133,7 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 
 ## 2. Security
 
+- [ ] Sensitivity Classification & Audit
 - [ ] Azure AD Authentication
 - [ ] Vnet intergration
 
