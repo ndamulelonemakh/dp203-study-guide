@@ -10,12 +10,14 @@
 - [ ] Load with Polybase
 - [ ] Load with Lake Database
 - [ ] Load from Azure storage
+- [ ] CTAS vs CETAS
 - [ ] Other sources: Cosmos DB, SAP, S3 etc.
 
 ## 2. Pipelines
 
 - [ ]  Copy Activity
 - [ ]  Mapping Dataflow functions e.g. Pivot, Select, Filter etc.
+- [ ]  Data flow script e.g. Split
 - [ ]  Self-hosted runtime
 
 ## 3. Monitoring
@@ -38,6 +40,8 @@
 
 - [ ] Materialised Views
 - [ ] Partitioning vs Distribution
+- [ ] Partition switching
+- [ ] Clustered columnstore index vs clustered index
 - [ ] 
 
 ### Labs
@@ -99,6 +103,10 @@ i. Create a realtime dashboard to track user activity of a website
 - [ ] Databricks utilities - dbutils
 - [ ] Spark/Pyspark/Spark SQL - basic tranformations e.g. dropDuplicates(), CAST()
 
+## 2. Perfomance
+
+- [ ] High concurrency cluster vs Standard
+
 <br/>
 <br/>
 <br/>
@@ -130,4 +138,6 @@ i. Create a realtime dashboard to track user activity of a website
 # Data Engineering concepts
 
 - [ ] File formats e.g. Parquet, Avro, Binary etc.
+- [ ] Surrogate Keys (Alternate keys)
+- [ ] Slowly changing dimension Type 0, 1 and 2
 
