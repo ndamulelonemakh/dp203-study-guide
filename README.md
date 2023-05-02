@@ -26,6 +26,8 @@
 - [ ] Execution times
 - [ ] Azure Monitor Alerts
 - [ ] Sensitivity query results audit
+- [ ] System/Metadata tables
+- [ ] Common errors e.g. CSV schema mismatch
 
 
 ## 4. Security
