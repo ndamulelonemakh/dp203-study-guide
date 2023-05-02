@@ -32,8 +32,8 @@
 
 ## 4. Security
 
-- [ ] Roles
-- [ ] Create Admin Accounts
+- [ ] Admin Accounts
+- [ ]  Access control
 - [ ] Storage keys
 - [ ] Encryption - HTTPS, TDE etc.
 - [ ] Row level vs Column level security
