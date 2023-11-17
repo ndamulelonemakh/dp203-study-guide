@@ -2,6 +2,28 @@
 > A curated list of topics to prepare for [Azure DP-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) certification exam - Made with :heart: by [Peclyr.ai](). This guide assumes that you have a good conceptual understanding of basic data concepts in Azure Cloud e.g. Structured vs Unstructured data, Azure data platforms etc. We recommend using this guide in conjuction with the [learning path](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/) provided for Free by Microsoft. You can also refer to the [data fundamentals learning path](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) to get an overview of the data services before diving deep into the details.
 
 
+# Data Engineering concepts
+
+- [ ] File formats e.g. Parquet, Avro, Binary etc.
+- [ ] Surrogate Keys (Alternate keys)
+- [ ] Slowly changing dimension Type 0, 1 and 2
+- [ ] Big data [reference architectures](https://learn.microsoft.com/en-us/azure/architecture/data-guide/big-data/)
+
+
+<br/>
+<br/>
+
+
+# Azure Data Lake Storage
+
+- [ ] Posix controls
+- [ ] SAS vs Managed Identity Access
+- [ ] URL Schems e.g. abfss vs wasbs
+
+
+<br/>
+<br/>
+
 # Azure Synpase Analytics
 
 ## 1. Data Injestion
@@ -58,8 +80,7 @@ ii. Create a data warehouse schema from database dumps
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 # Azure Streaming Analytics
 
@@ -100,8 +121,6 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 # Azure Databricks
 
@@ -121,10 +140,6 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 
 <br/>
 <br/>
-<br/>
-<br/>
-
-
 
 # Azure SQL Database
 
@@ -142,29 +157,9 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 - [ ] Vnet intergration
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+<hr/>
 
 
-# Azure Data Lake Storage
+# Closing remarks
 
-- [ ] Posix controls
-- [ ] SAS vs Managed Identity Access
-- [ ] URL Schems e.g. abfss vs wasbs
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-# Data Engineering concepts
-
-- [ ] File formats e.g. Parquet, Avro, Binary etc.
-- [ ] Surrogate Keys (Alternate keys)
-- [ ] Slowly changing dimension Type 0, 1 and 2
-- [ ] Big data [reference architectures](https://learn.microsoft.com/en-us/azure/architecture/data-guide/big-data/)
-
+This guide does not cover the full scope of the [DP 203] exam, but the concepts which I found to be non-obvious when going through the learning material. I passed the exam in my first attempt with a score of over 800, and I would say going through the fundamentals learning path helped a lot when I was faced with tricky question. Thinking from first principles is key to clearning these exams. If you can, do as many practical examples on Synapse analytics and have a good undestandng of common streaming concepts like windows and partitioning. Having a good grasp of security fundamentals like RBAC, Managed identities and Azure AD will also come in handy. The exam is not that bad if you give yourself time to practice, good luck!
