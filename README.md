@@ -1,4 +1,4 @@
-# DP 203 Data Engineering on Microsoft Azure - Study Guide
+# DP-203: Data Engineering on Microsoft Azure - Study Guide
 > A curated list of topics to prepare for [Azure DP-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) certification exam. This guide assumes that you have a good conceptual understanding of basic data concepts in Azure Cloud e.g. Structured vs Unstructured data, Azure data platforms etc. We recommend using this guide in conjuction with the [Microsoft Learn DP-203 Learning Path](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/). You can also refer to the [DP-900 Data Fundamentals Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) to get an overview of Azure Data Offerings before diving deep into the details.
 
 
