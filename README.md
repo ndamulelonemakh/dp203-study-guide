@@ -1,5 +1,5 @@
 # DP 203 Data Engineering on Microsoft Azure - Study Guide
-> A curated list of topics to prepare for [Azure DP-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) certification exam. This guide assumes that you have a good conceptual understanding of basic data concepts in Azure Cloud e.g. Structured vs Unstructured data, Azure data platforms etc. We recommend using this guide in conjuction with the [learning path](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/) provided for Free by Microsoft. You can also refer to the [data fundamentals learning path](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) to get an overview of the data services before diving deep into the details.
+> A curated list of topics to prepare for [Azure DP-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) certification exam. This guide assumes that you have a good conceptual understanding of basic data concepts in Azure Cloud e.g. Structured vs Unstructured data, Azure data platforms etc. We recommend using this guide in conjuction with the [Microsoft Learn DP-203 Learning Path](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/). You can also refer to the [DP-900 Data Fundamentals Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) to get an overview of Azure Data Offerings before diving deep into the details.
 
 
 # Data Engineering concepts
@@ -11,7 +11,6 @@
 
 
 <br/>
-<br/>
 
 
 # Azure Data Lake Storage
@@ -20,8 +19,6 @@
 - [ ] SAS vs Managed Identity Access
 - [ ] URL Schems e.g. abfss vs wasbs
 
-
-<br/>
 <br/>
 
 # Azure Synpase Analytics
@@ -75,10 +72,7 @@
 
 i. Create a data warehouse schema from the Contoso sample database
 
-ii. Create a data warehouse schema from database dumps
 
-
-<br/>
 <br/>
 
 
@@ -117,9 +111,8 @@ ii. Create a data warehouse schema from database dumps
 ### Labs
 
 i. Create a realtime dashboard to track user activity of a website
-ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data source
+ii. Build a streaming Power BI Dashboard using Azure Stream Analytics
 
-<br/>
 <br/>
 
 # Azure Databricks
@@ -138,7 +131,6 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 - [ ] Standard autoscaling vs Optimised autoscaling
 - [ ] Incremental loads with Autoloader
 
-<br/>
 <br/>
 
 # Azure SQL Database
@@ -162,4 +154,8 @@ ii. Build a streaming Power Dashboard using Azure Stream Analytics as a data sou
 
 # Closing remarks
 
-This guide does not cover the full scope of the [DP 203](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/) exam, but the concepts which I found to be non-obvious when going through the learning material. I passed the exam in my first attempt with a score of over 800, and I would say going through the fundamentals learning path helped a lot when I was faced with tricky questions. Thinking from first principles is key to clearning these exams. If you can, do as many practical examples on Synapse analytics and have a good undestandng of common streaming concepts like windows and partitioning. Having a good grasp of security fundamentals like RBAC, Managed identities and Azure AD will also come in handy. The exam is not that bad if you give yourself time to practice, good luck!
+* This guide does not cover the full scope of the [DP 203](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/) exam, but the concepts which I peronally found to be non-obvious when going through the learning material.
+* I passed the exam in my first attempt with a decent score, and I would say going through the fundamentals learning path helped a lot when I was faced with unfamiliar situations.
+* Thinking from first principles is key to clearning these exams. If you can, do as many practical examples on Synapse analytics and have a good undestandng of common streaming concepts like windows and partitioning.
+* Having a good grasp of security fundamentals like RBAC, Managed identities and Azure AD will also come in handy.
+* The exam is not that bad if you give yourself time to practice, good luck!
